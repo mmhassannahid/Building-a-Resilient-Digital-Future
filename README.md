@@ -3,7 +3,6 @@
 ## 🏫 Course Details
 - Course Name: Computer Ethics and Cyber Law
 - Course Code: CSE 455
-- Credit Hours: 2.00
 - Department: Computer Science and Engineering
 - Hajee Mohammad Danesh Science & Technology University
   
@@ -23,7 +22,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### 🌐 Current Cyber Law Landscape in Bangladesh
+### 🌐 Current Cyber Laws in Bangladesh
 
 #### Existing Legal Instruments:
 - **ICT Act 2006 (amended 2013)**
@@ -37,7 +36,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### 📘 Global Legal Inspirations
+### 📘 Global Laws
 
 | Country/Region | Law                          | Key Highlights                                          |
 |----------------|------------------------------|---------------------------------------------------------|
@@ -47,7 +46,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 | Australia      | Cyber Security Strategy 2020 | Emphasis on critical infrastructure, cyber hygiene      |
 | India          | DPDP Bill 2023               | Similar to GDPR but adapted to Indian jurisdiction     |
 
-*(See `references/global-cyberlaws-summary.md` for full breakdown)*
+
 
 ---
 
