@@ -36,7 +36,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### 📘 Global Laws
+###  Global Laws
 
 | Country/Region | Law                          | Key Highlights                                          |
 |----------------|------------------------------|---------------------------------------------------------|
@@ -50,7 +50,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### 📌 Proposed Legal Reforms for Bangladesh
+### Proposed Legal Reforms for Bangladesh
 
 #### 1. **Enact a Comprehensive Data Protection Law**
 - Inspired by **GDPR** and **PDPA**
@@ -77,7 +77,7 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### ⚖️ Implementation Strategy
+### Implementation Strategy
 
 - Multi-stakeholder consultations (government, tech firms, civil society)
 - Pilot programs in universities and tech hubs
@@ -85,13 +85,13 @@ In the age of rapid digital transformation, Bangladesh stands at a critical junc
 
 ---
 
-### 📎 Conclusion
+### Conclusion
 
 Bangladesh’s ambition to be a digital leader requires not only technological adoption but also **strong, fair, and forward-thinking cyber laws**. Learning from successful global frameworks and adapting them to local needs can protect citizen rights, foster innovation, and build a truly resilient digital future.
 
 ---
 
-### 📚 References
+### References
 1. **European Union** (2016). *General Data Protection Regulation (GDPR)*.  
    [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679)
 
