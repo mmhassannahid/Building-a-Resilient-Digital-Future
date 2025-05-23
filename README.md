@@ -1,13 +1,13 @@
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 
-## 🏫 Course Details
+##  Course Details
 - Course Name: Computer Ethics and Cyber Law
 - Course Code: CSE 455
 - Department: Computer Science and Engineering
 - Hajee Mohammad Danesh Science & Technology University
   
   ---
-## 🙋‍♂️ Submitted By
+##  Submitted By
 - Name: **Md. Mahmudul Hassan**
 - Student ID: **2002042**
 - Level-4, Semester-II
@@ -16,7 +16,7 @@
 
   ---
 
-### 🔍 Introduction
+###  Introduction
 
 In the age of rapid digital transformation, Bangladesh stands at a critical juncture in shaping a secure, inclusive, and resilient cyberspace. While the **Digital Security Act (DSA) 2018** laid foundational elements, it faces widespread criticism for vague definitions and potential abuse. This paper proposes reformative legal strategies based on leading global examples to help Bangladesh achieve a rights-respecting and innovation-friendly digital future.
 
